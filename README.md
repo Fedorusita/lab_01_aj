@@ -223,3 +223,6 @@ class Program
         rectangle.PerimeterCalculator();   
     }
 }
+
+<img width="595" alt="image" src="https://github.com/Fedorusita/lab_01_aj/assets/112895410/c7f188b5-697a-46b7-a1f1-cdbb754ee4ab">
+
