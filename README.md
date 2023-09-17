@@ -224,7 +224,9 @@ class Program
     }
 }
 
-![image](https://github.com/Fedorusita/lab_01_aj/assets/112895410/ba2aab21-1a26-4569-a396-7e7c646eb0cb)
+
+
+
 
 
 
